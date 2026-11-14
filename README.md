@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner-github.png" width="100%" alt="Iandra Hellen - Engenharia de Dados">
+</div>
 
 <div align="center">
 
